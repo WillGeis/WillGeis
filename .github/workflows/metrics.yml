@@ -30,6 +30,6 @@ jobs:
           # Exclude Jupyter Notebooks here
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, jupyter notebook, ipynb
+            gnuplot, jupyter notebook, ipynb, roff, batchfile
           
           filename: metrics.plugin.languages.svg
